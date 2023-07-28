@@ -1,5 +1,0 @@
-rg_name                     = "azure_vnet_rg"
-project_location            = "East us"
-db_password                 = "orhazout"
-db_key_data                 = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCv9+Sdfidka2G+UVRbpz3z4tw47M9v+szhPvGe/u3fnkBvL/JhJB2/BCDcykg/gYwYo6qfx5o13MbDWXG9GL772S+tBF6QvaOCp04qEfMuB5HTf8txvdvzok3gFTrivYStQH2acDh25h6RitdX+jXf05ICnPQ603VelUgAP4T33Rkb73KsLN1uJPFh5v41UsydGEx8JbNk39cmzeWcPYIYy0gDvdWHKhQh1fyEIsAX7UbFwjPQ79bFkCU1gDHTGCBH+XlghdoHyJ5q95w6yPC0zlnrDgt/1Y0tgn0fVo2KZqbGX6sleEHGALse8looVcUEh/x45e4vyeOkhWtc5Aif"
-web_key_data                = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDNhuEna501B2cfMKCeVpIkqfnxcSuT7iiCKwp86agRAct0pG14UgHVcTc1ZkE6+reovoDZnncTX+iXb5f8NeG0+J+IxevlBJPwp3I6+Z/xdh1lHxdzbZbeXB8P96meG5uzZ/pcSCQRu1eec2fZC+c4Bf6uTbxdUtFIeWCSfLqUkI87Ie++tuSY7JMCURDs9gl+rgtM8POk5PfiS6NQLCOH6PoOBRmtOQ1ruJl20VZsqOZoErgFdx08WDXAkZ3qApBPl/qeXjNXpVsbfUMxfJqnIffwtJHwcyilRu/Ge1OshAwdqopu/g89Lll6W9SX9KXnhM0jXeEiP0DiIVZ00A+N"
