@@ -1,5 +1,5 @@
 # terraform_vnet
-virtual network with virtual machine and data base , to deploy an online python application
+azure virtual network with virtual machine and data base , to deploy an online python application
 
 ## actions to apply:
 
@@ -13,4 +13,8 @@ terraform plan
 ```
 ```
 terraform apply
+```
+### to clear run command:
+```
+terraform destroy
 ```
