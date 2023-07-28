@@ -5,9 +5,18 @@ virtual network with virtual machine and data base , to deploy an online python 
 
 ### generate ssh key and add to your project, or use ssh.tf to generate for you.
 ### run commmands:
-...
-terrform init 
-...
-...
-terraform apply
-...
+```
+function test() {
+  console.log("terraform init");
+}
+```
+```
+function test() {
+  console.log("terraform plan");
+}
+```
+```
+function test() {
+  console.log("terraform apply");
+}
+```
